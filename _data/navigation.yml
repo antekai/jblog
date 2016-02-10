@@ -1,0 +1,18 @@
+# Site navigation links
+
+
+- title: About
+  url: /about/
+
+- title: Articles
+  url: 
+
+#- title: Blog
+#  url: /blog/
+
+- title: search
+  url: /search/
+
+# - title: Resume
+#  url: http://andrete.eu
+
